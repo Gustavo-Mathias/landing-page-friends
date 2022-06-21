@@ -56,10 +56,9 @@ body{
 }
 
 .video {
-  padding-left: 10%;
-  display: block;
-  margin: 0px auto;
-  align-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 /*celleguim.html*/
 /*henrique.html*/
