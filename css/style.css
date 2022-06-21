@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*index.html*/
+body{
+    background-color: black;
+}
+
+
+.menu{
+  width: 900px;
+  margin: 10px auto;
+  background: gray;
+  padding: 10px;
+  padding-left: 415px;
+}
+
+.menu a{
+    color: black;
+    font-size: 20px;
+    margin:0 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.inicio h1{
+    color: white;
+    padding-left: 510px;
+}
+
+.inicio p{
+    color: white;
+}
+
+.trio {
+    width: 400px;
+    padding-left: 450px;
+}
+/*index.html*/
+/*celleguim.html*/
+.maluco {
+    color: white;
+    padding-left: 590px;
+}
+
+.celele {
+    width: 400px;
+    padding-left: 450px;
+}
+
+.bomba {
+    color: white;
+}
+
+.texto {
+    color: white;
+    padding-left: 490px;
+}
+
+.video {
+    padding-left: 490px;
+}
+/*celleguim.html*/
+/*henrique.html*/
+
+.programador {
+    color: white;
+    padding-left: 590px;
+}
+
+.semfoto {
+    width: 400px;
+    padding-left: 450px;
+}
+
+.estranho{
+    color: white;
+}
+
+.titulo {
+    color: white;
+    padding-left: 550px;
+}
+
+.computador {
+    padding-left: 515px;
+}
+/*henrique.html*/
+/*mau.html*/
+.oculos{
+    color: white;
+    padding-left: 645px;
+}
+
+.mau{
+    width: 400px;
+    padding-left: 470px;
+}
+
+.hype {
+    color: white;
+}
+/*mau.html*/
+/*minas.html*/
+.lenda{
+    color: white;
+    padding-left: 615px;
+}
+
+.minas{
+    width: 400px;
+    padding-left: 470px;
+}
+
+.mathias {
+    color: white;
+}
+
+.garrafa{
+    color: white;
+    padding-left: 525px;
+}
+
+.bilingue{
+    padding-left: 520px;
+}
+/*minas.html*/
+/*scroll*/
+::-webkit-scrollbar {
+    background-color: grey;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+    background: gray;
+}
+
+::-webkit-scrollbar-thumb {
+    background: gray;
+    border-radius: 0;
+}
+/*scroll*/
