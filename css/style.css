@@ -9,19 +9,9 @@ body{
 
 
 .menu{
-  width: 900px;
-  margin: 10px auto;
+  width: 65%;
   background: gray;
-  padding: 10px;
-  padding-left: 415px;
-}
-
-.menu a{
-    color: black;
-    font-size: 20px;
-    margin:0 10px;
-    text-align: center;
-    text-decoration: none;
+  text-align: center;
 }
 
 .inicio h1{
@@ -39,27 +29,37 @@ body{
 }
 /*index.html*/
 /*celleguim.html*/
-.maluco {
+.tituloc{
+    text-align: center;
     color: white;
-    padding-left: 590px;
+    font-size: 60px;
 }
 
-.celele {
+.imagemcachorro{
     width: 400px;
-    padding-left: 450px;
+    height: 400px;
+    display: block;
+    margin: 0px auto;
+    align-content: center;
 }
 
 .bomba {
     color: white;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: justify;
 }
 
 .texto {
     color: white;
-    padding-left: 490px;
+    text-align: center;
 }
 
 .video {
-    padding-left: 490px;
+  padding-left: 10%;
+  display: block;
+  margin: 0px auto;
+  align-content: center;
 }
 /*celleguim.html*/
 /*henrique.html*/
@@ -76,6 +76,9 @@ body{
 
 .estranho{
     color: white;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: justify;
 }
 
 .titulo {
