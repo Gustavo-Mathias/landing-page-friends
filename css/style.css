@@ -6,29 +6,8 @@
 body{
     background-color: black;
 }
-
-
-.menu{
-  width: 65%;
-  background: gray;
-  text-align: center;
-}
-
-.inicio h1{
-    color: white;
-    padding-left: 510px;
-}
-
-.inicio p{
-    color: white;
-}
-
-.trio {
-    width: 400px;
-    padding-left: 450px;
-}
 /*index.html*/
-/*celleguim.html*/
+
 .tituloc{
     text-align: center;
     color: white;
@@ -60,74 +39,7 @@ body{
   align-items: center;
   justify-content: center;
 }
-/*celleguim.html*/
-/*henrique.html*/
 
-.programador {
-    color: white;
-    padding-left: 590px;
-}
-
-.semfoto {
-    width: 400px;
-    padding-left: 450px;
-}
-
-.estranho{
-    color: white;
-    padding-left: 15%;
-    padding-right: 15%;
-    text-align: justify;
-}
-
-.titulo {
-    color: white;
-    padding-left: 550px;
-}
-
-.computador {
-    padding-left: 515px;
-}
-/*henrique.html*/
-/*mau.html*/
-.oculos{
-    color: white;
-    padding-left: 645px;
-}
-
-.mau{
-    width: 400px;
-    padding-left: 470px;
-}
-
-.hype {
-    color: white;
-}
-/*mau.html*/
-/*minas.html*/
-.lenda{
-    color: white;
-    padding-left: 615px;
-}
-
-.minas{
-    width: 400px;
-    padding-left: 470px;
-}
-
-.mathias {
-    color: white;
-}
-
-.garrafa{
-    color: white;
-    padding-left: 525px;
-}
-
-.bilingue{
-    padding-left: 520px;
-}
-/*minas.html*/
 /*scroll*/
 ::-webkit-scrollbar {
     background-color: grey;
